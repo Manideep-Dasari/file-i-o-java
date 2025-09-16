@@ -21,7 +21,7 @@
 ---
 
 ## 📂 Project Structure
-
+```
 Task_4/
 │
 ├── src/
@@ -31,6 +31,7 @@ Task_4/
 ├── products.csv
 ├── expensive_products.csv
 └── README.md
+```
 
 ---
 
